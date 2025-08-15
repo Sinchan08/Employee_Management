@@ -1,0 +1,6 @@
+2025-08-15T15:39:38.178+05:30  INFO 13684 --- [Employee_Management1] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-08-15T15:39:38.199+05:30  INFO 13684 --- [Employee_Management1] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2025-08-15T15:39:38.594+05:30  WARN 13684 --- [Employee_Management1] [http-nio-8080-exec-2] o.a.c.util.SessionIdGeneratorBase        : Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [213] milliseconds.
+2025-08-15T15:40:48.885+05:30  INFO 13684 --- [Employee_Management1] [http-nio-8080-exec-4] c.d.e.service.EmployeeService            : Creating a new employee: Sameeksha
+2025-08-15T15:42:30.741+05:30  INFO 13684 --- [Employee_Management1] [http-nio-8080-exec-8] c.d.e.service.EmployeeService            : Creating a new employee: Raksha
+2025-08-15T15:43:12.155+05:30  INFO 13684 --- [Employee_Management1] [http-nio-8080-exec-2] c.d.e.service.EmployeeService            : Fetching employee with id: 1

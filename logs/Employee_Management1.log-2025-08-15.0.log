@@ -1,0 +1,5 @@
+2025-08-15T15:39:15.717+05:30  INFO 13684 --- [Employee_Management1] [main] c.d.e.EmployeeManagement1Application     : Starting EmployeeManagement1Application using Java 17.0.13 with PID 13684 (E:\eclipse\eclipse_working_directory\Employee_Management-1\target\classes started by Dell in E:\eclipse\eclipse_working_directory\Employee_Management-1)
+2025-08-15T15:39:15.724+05:30  INFO 13684 --- [Employee_Management1] [main] c.d.e.EmployeeManagement1Application     : No active profile set, falling back to 1 default profile: "default"
+2025-08-15T15:39:17.607+05:30  INFO 13684 --- [Employee_Management1] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-08-15T15:39:17.743+05:30  INFO 13684 --- [Employee_Management1] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 111 ms. Found 1 JPA repository interface.
+2025-08-15T15:39:19.046+05:30  INFO 13684 --- [Employee_Management1] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)

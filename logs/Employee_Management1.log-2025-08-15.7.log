@@ -1,0 +1,6 @@
+2025-08-15T15:58:05.297+05:30  INFO 13684 --- [Employee_Management1] [http-nio-8080-exec-3] c.d.e.service.EmployeeService            : Deleting employee with id: 7
+2025-08-15T15:59:23.892+05:30  INFO 13684 --- [Employee_Management1] [http-nio-8080-exec-6] c.d.e.service.EmployeeService            : Creating a new employee: Anjali Desai
+2025-08-15T16:01:15.731+05:30  INFO 13684 --- [Employee_Management1] [http-nio-8080-exec-9] c.d.e.service.EmployeeService            : Updating employee with id: 7
+2025-08-15T16:01:15.740+05:30 ERROR 13684 --- [Employee_Management1] [http-nio-8080-exec-9] c.d.e.service.EmployeeService            : Employee with id 7 not found.
+2025-08-15T16:01:43.157+05:30  WARN 13684 --- [Employee_Management1] [http-nio-8080-exec-10] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]
+2025-08-15T16:03:23.351+05:30  WARN 13684 --- [Employee_Management1] [http-nio-8080-exec-3] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]

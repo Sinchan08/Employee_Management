@@ -1,0 +1,6 @@
+2025-08-15T16:09:47.978+05:30  INFO 13684 --- [Employee_Management1] [http-nio-8080-exec-4] c.d.e.service.EmployeeService            : Updating employee with id: 8
+2025-08-15T16:16:59.676+05:30  INFO 13684 --- [Employee_Management1] [RMI TCP Connection(42)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2025-08-15T16:17:00.132+05:30  INFO 13684 --- [Employee_Management1] [RMI TCP Connection(42)-127.0.0.1] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-08-15T16:17:00.702+05:30  INFO 13684 --- [Employee_Management1] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-08-15T16:17:00.939+05:30  INFO 13684 --- [Employee_Management1] [RMI TCP Connection(42)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-08-15T16:17:01.318+05:30  INFO 13684 --- [Employee_Management1] [RMI TCP Connection(42)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
