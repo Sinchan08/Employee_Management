@@ -1,0 +1,5 @@
+2025-08-16T19:12:02.119+05:30  INFO 9460 --- [Employee_Management1] [RMI TCP Connection(2)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2025-08-16T19:12:02.153+05:30  INFO 9460 --- [Employee_Management1] [RMI TCP Connection(2)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2025-08-16T19:13:02.873+05:30  INFO 2320 --- [Employee_Management1] [main] c.d.e.EmployeeManagement1Application     : Starting EmployeeManagement1Application using Java 17.0.13 with PID 2320 (E:\eclipse\eclipse_working_directory\Employee_Management-1\target\classes started by Dell in E:\eclipse\eclipse_working_directory\Employee_Management-1)
+2025-08-16T19:13:02.952+05:30  INFO 2320 --- [Employee_Management1] [main] c.d.e.EmployeeManagement1Application     : No active profile set, falling back to 1 default profile: "default"
+2025-08-16T19:13:04.744+05:30  INFO 2320 --- [Employee_Management1] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.

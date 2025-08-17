@@ -1,0 +1,10 @@
+2025-08-16T18:10:53.524+05:30  WARN 13704 --- [Employee_Management1] [main] .s.s.UserDetailsServiceAutoConfiguration : 
+
+Using generated security password: 8a3e77ae-ea41-4189-be69-a69af8ff6c55
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2025-08-16T18:10:53.577+05:30  INFO 13704 --- [Employee_Management1] [main] r$InitializeUserDetailsManagerConfigurer : Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2025-08-16T18:10:54.490+05:30  INFO 13704 --- [Employee_Management1] [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2025-08-16T18:10:54.495+05:30  INFO 13704 --- [Employee_Management1] [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2025-08-16T18:10:54.507+05:30  INFO 13704 --- [Employee_Management1] [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 11 ms

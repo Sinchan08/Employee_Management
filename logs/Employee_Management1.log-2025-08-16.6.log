@@ -1,0 +1,6 @@
+2025-08-16T18:09:36.932+05:30  INFO 10988 --- [Employee_Management1] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-08-16T18:09:38.384+05:30  INFO 10988 --- [Employee_Management1] [RMI TCP Connection(35)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-08-16T18:09:39.188+05:30  INFO 10988 --- [Employee_Management1] [RMI TCP Connection(35)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2025-08-16T18:09:39.296+05:30  INFO 10988 --- [Employee_Management1] [RMI TCP Connection(35)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2025-08-16T18:10:44.566+05:30  INFO 13704 --- [Employee_Management1] [main] c.d.e.controller.EmployeeControllerTest  : Starting EmployeeControllerTest using Java 17.0.13 with PID 13704 (started by Dell in E:\eclipse\eclipse_working_directory\Employee_Management-1)
+2025-08-16T18:10:44.584+05:30  INFO 13704 --- [Employee_Management1] [main] c.d.e.controller.EmployeeControllerTest  : No active profile set, falling back to 1 default profile: "default"

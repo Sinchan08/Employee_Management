@@ -1,0 +1,6 @@
+2025-08-16T18:17:23.079+05:30  INFO 10408 --- [Employee_Management1] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-08-16T18:17:23.082+05:30  INFO 10408 --- [Employee_Management1] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-08-16T18:17:23.092+05:30  INFO 10408 --- [Employee_Management1] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 7 ms
+2025-08-16T18:17:23.916+05:30  INFO 10408 --- [Employee_Management1] [http-nio-8080-exec-1] c.d.e.service.EmployeeService            : Fetching all employees.
+2025-08-16T18:55:38.345+05:30  WARN 10408 --- [Employee_Management1] [http-nio-8080-exec-4] o.a.c.util.SessionIdGeneratorBase        : Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [438] milliseconds.
+2025-08-16T19:08:40.259+05:30  INFO 10408 --- [Employee_Management1] [RMI TCP Connection(60)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.

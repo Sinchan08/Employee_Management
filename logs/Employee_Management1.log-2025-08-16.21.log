@@ -1,0 +1,6 @@
+2025-08-16T19:13:04.877+05:30  INFO 2320 --- [Employee_Management1] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 104 ms. Found 1 JPA repository interface.
+2025-08-16T19:13:06.309+05:30  INFO 2320 --- [Employee_Management1] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-08-16T19:13:06.359+05:30  INFO 2320 --- [Employee_Management1] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-08-16T19:13:06.361+05:30  INFO 2320 --- [Employee_Management1] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.43]
+2025-08-16T19:13:06.557+05:30  INFO 2320 --- [Employee_Management1] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-08-16T19:13:06.559+05:30  INFO 2320 --- [Employee_Management1] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 3486 ms

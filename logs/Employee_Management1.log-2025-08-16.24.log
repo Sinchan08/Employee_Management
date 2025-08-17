@@ -1,0 +1,5 @@
+2025-08-16T19:13:14.288+05:30  INFO 2320 --- [Employee_Management1] [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-08-16T19:13:14.799+05:30  INFO 2320 --- [Employee_Management1] [main] o.s.d.j.r.query.QueryEnhancerFactory     : Hibernate is in classpath; If applicable, HQL parser will be used.
+2025-08-16T19:13:16.628+05:30  WARN 2320 --- [Employee_Management1] [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-08-16T19:13:17.747+05:30  INFO 2320 --- [Employee_Management1] [main] r$InitializeUserDetailsManagerConfigurer : Global AuthenticationManager configured with UserDetailsService bean with name userDetailsService
+2025-08-16T19:13:18.624+05:30  INFO 2320 --- [Employee_Management1] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'

@@ -1,0 +1,5 @@
+2025-08-16T18:11:47.732+05:30  INFO 10408 --- [Employee_Management1] [main] o.s.d.j.r.query.QueryEnhancerFactory     : Hibernate is in classpath; If applicable, HQL parser will be used.
+2025-08-16T18:11:49.531+05:30  WARN 10408 --- [Employee_Management1] [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-08-16T18:11:50.588+05:30  INFO 10408 --- [Employee_Management1] [main] r$InitializeUserDetailsManagerConfigurer : Global AuthenticationManager configured with UserDetailsService bean with name userDetailsService
+2025-08-16T18:11:51.447+05:30  INFO 10408 --- [Employee_Management1] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-08-16T18:11:51.478+05:30  INFO 10408 --- [Employee_Management1] [main] c.d.e.EmployeeManagement1Application     : Started EmployeeManagement1Application in 21.989 seconds (process running for 23.329)

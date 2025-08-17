@@ -1,0 +1,6 @@
+2025-08-16T18:06:06.933+05:30  INFO 10988 --- [Employee_Management1] [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-08-16T18:06:07.088+05:30  INFO 10988 --- [Employee_Management1] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-08-16T18:06:09.213+05:30  INFO 10988 --- [Employee_Management1] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2089 ms
+2025-08-16T18:06:13.046+05:30  WARN 10988 --- [Employee_Management1] [http-nio-8080-exec-2] o.a.c.util.SessionIdGeneratorBase        : Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [256] milliseconds.
+2025-08-16T18:09:35.725+05:30  INFO 10988 --- [Employee_Management1] [RMI TCP Connection(35)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2025-08-16T18:09:36.150+05:30  INFO 10988 --- [Employee_Management1] [RMI TCP Connection(35)-127.0.0.1] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete

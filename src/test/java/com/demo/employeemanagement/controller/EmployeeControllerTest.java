@@ -13,9 +13,10 @@ import org.springframework.test.web.servlet.MockMvc;
 import java.util.Optional;
 
 import static org.mockito.Mockito.when;
+import static org.springframework.security.test.web.servlet.request.SecurityMockMvcRequestPostProcessors.httpBasic;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;
-import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.jsonPath;
+import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
 
 @WebMvcTest(EmployeeController.class)
 public class EmployeeControllerTest {
@@ -28,6 +29,7 @@ public class EmployeeControllerTest {
 
     @Test
     public void whenGetEmployeeById_thenReturnEmployee() throws Exception {
+        
         Employee employee = new Employee();
         employee.setId(1L);
         employee.setName("John Doe");
@@ -35,9 +37,11 @@ public class EmployeeControllerTest {
         when(employeeService.getEmployeeById(1L)).thenReturn(Optional.of(employee));
 
         mockMvc.perform(get("/api/employees/1")
+                .with(httpBasic("employee", "employeepass"))
                 .contentType(MediaType.APPLICATION_JSON))
-                .andExpect(status().isOk())
-                .andExpect(jsonPath("$.id").value(1L))
-                .andExpect(jsonPath("$.name").value("John Doe"));
+
+        .andExpect(status().isOk())
+        .andExpect(jsonPath("$.id").value(1L))
+        .andExpect(jsonPath("$.name").value("John Doe"));
     }
 }
