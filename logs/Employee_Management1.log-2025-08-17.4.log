@@ -1,0 +1,5 @@
+2025-08-17T16:00:14.399+05:30  WARN 6060 --- [Employee_Management1] [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-08-17T16:00:15.370+05:30  INFO 6060 --- [Employee_Management1] [main] r$InitializeUserDetailsManagerConfigurer : Global AuthenticationManager configured with UserDetailsService bean with name userDetailsService
+2025-08-17T16:00:16.030+05:30  INFO 6060 --- [Employee_Management1] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-08-17T16:00:16.065+05:30  INFO 6060 --- [Employee_Management1] [main] c.d.e.EmployeeManagement1Application     : Started EmployeeManagement1Application in 21.527 seconds (process running for 22.894)
+2025-08-17T16:01:45.634+05:30  INFO 6060 --- [Employee_Management1] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'

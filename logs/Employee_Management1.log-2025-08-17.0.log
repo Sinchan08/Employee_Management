@@ -1,0 +1,5 @@
+2025-08-17T15:59:56.186+05:30  INFO 6060 --- [Employee_Management1] [main] c.d.e.EmployeeManagement1Application     : Starting EmployeeManagement1Application using Java 17.0.13 with PID 6060 (E:\eclipse\eclipse_working_directory\Employee_Management-1\target\classes started by Dell in E:\eclipse\eclipse_working_directory\Employee_Management-1)
+2025-08-17T15:59:56.198+05:30  INFO 6060 --- [Employee_Management1] [main] c.d.e.EmployeeManagement1Application     : No active profile set, falling back to 1 default profile: "default"
+2025-08-17T15:59:58.812+05:30  INFO 6060 --- [Employee_Management1] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-08-17T15:59:58.996+05:30  INFO 6060 --- [Employee_Management1] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 150 ms. Found 1 JPA repository interface.
+2025-08-17T16:00:00.965+05:30  INFO 6060 --- [Employee_Management1] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)

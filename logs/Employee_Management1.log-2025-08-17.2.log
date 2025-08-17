@@ -1,0 +1,6 @@
+2025-08-17T16:00:03.335+05:30  INFO 6060 --- [Employee_Management1] [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-08-17T16:00:03.593+05:30  INFO 6060 --- [Employee_Management1] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2025-08-17T16:00:05.756+05:30  INFO 6060 --- [Employee_Management1] [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@11015ca0
+2025-08-17T16:00:05.762+05:30  INFO 6060 --- [Employee_Management1] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2025-08-17T16:00:06.284+05:30  WARN 6060 --- [Employee_Management1] [main] org.hibernate.orm.deprecation            : HHH90000025: MySQL8Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-08-17T16:00:06.288+05:30  WARN 6060 --- [Employee_Management1] [main] org.hibernate.orm.deprecation            : HHH90000026: MySQL8Dialect has been deprecated; use org.hibernate.dialect.MySQLDialect instead
